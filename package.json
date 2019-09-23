@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/Danihan/liri-node-new-app#readme",
   "dependencies": {
-    "dotenv": "^6.0.0",
-    "node-spotify-api": "^1.1.1",
+    "dotenv": "^8.1.0",
+    "node-spotify-api": "^1.0.7",
     "request": "^2.88.0",
     "twitter": "^1.7.1"
   }
